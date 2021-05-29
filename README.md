@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sojankreji
-- 👀 I’m interested in backend development,algorithm,data structures , sofware architecture , microservices and much more
+- 👀 I’m interested in backend development,algorithm,data structures , software architecture , microservices and much more
 - 💞️ I’m looking to collaborate on python,angular,backend development...
 - 📫 reach me @ sojan4774@live.com
 
